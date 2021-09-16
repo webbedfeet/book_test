@@ -1,0 +1,12 @@
+title: test book
+author: Abhijit Dasgupta
+
+execute:
+  #    execute_notebooks: force
+    allow_errors: true
+
+latex:
+    latex_documents:
+        targetname: book.tex
+
+

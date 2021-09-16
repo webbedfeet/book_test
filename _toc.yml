@@ -1,0 +1,11 @@
+format: jb-book
+root: index
+
+chapters:
+  - file: 00_python_primer
+  - file: 01_python_tools_ds
+  - file: 02_python_pandas
+  - file: 03_python_vis
+  - file: 04_python_stat
+  - file: 05_python_learning
+  - file: 06_python_appl
